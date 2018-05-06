@@ -1,4 +1,4 @@
 # portfolio
 
 
--[Wiktoria Bigaj: Portfolio Website](https://bigajwiktoria.github.io/portfolio/portfolio/index.html)
+[Wiktoria Bigaj: Portfolio Website](https://bigajwiktoria.github.io/portfolio/index.html)
